@@ -1,0 +1,4 @@
+Author: SKT
+License:
+Class-Path: ../arrays-api/src/ArrayUtils.jar ../arrays-api/src/MatrixUtils.jar
+Main-Class: ArraysTest
